@@ -5,3 +5,6 @@
 - Chose `0`, the honest count for this agent environment, which has no browser tabs open.
 - Implemented the required program and README metadata.
 - Revised the entrypoint so the submitted count is explicit and auditable.
+- Created and pushed the public repository `wat-yuichi/zero-open-tabs`.
+- Passed all 16 locally runnable pre-submission and transcript checks.
+- First submission was rejected only because GitHub was not linked to make.fun; added the requested wallet ownership claim for retry.
