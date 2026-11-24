@@ -8,3 +8,4 @@
 - Created and pushed the public repository `wat-yuichi/zero-open-tabs`.
 - Passed all 16 locally runnable pre-submission and transcript checks.
 - First submission was rejected only because GitHub was not linked to make.fun; added the requested wallet ownership claim for retry.
+- Second server attempt passed ownership but GitHub reported the init-generated MIT file as `NOASSERTION`; normalized it to GitHub's standard MIT text.
